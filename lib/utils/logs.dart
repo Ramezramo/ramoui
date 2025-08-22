@@ -88,9 +88,8 @@ void printError(dynamic err, [dynamic trace, dynamic message]) {
     return;
   }
 
-  final shouldHide = trace == null ||
-      '$trace'.isEmpty ||
-      '$trace'.contains('package:inspireui');
+  final shouldHide =
+      trace == null || '$trace'.isEmpty || '$trace'.contains('package:ramoui');
   if (shouldHide) {
     logger.d(err, error: message, stackTrace: StackTrace.empty);
     return;

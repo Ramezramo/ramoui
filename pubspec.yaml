@@ -1,7 +1,7 @@
 name: ramoui
 description: Common useful and Widget Use For FluxStore Products (Flutter E-Commerce App)
 version: 2.1.0
-homepage: https://inspireui.com/
+homepage: https://ramoui.com/
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
@@ -30,7 +30,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.inspireui.common_library
+        package: com.ramoui.common_library
         pluginClass: CommonLibraryPlugin
       ios:
         pluginClass: CommonLibraryPlugin

@@ -1,4 +1,4 @@
-package com.inspireui.common_library
+package com.ramoui.common_library
 
 import android.app.Activity
 import android.content.Context
@@ -28,7 +28,7 @@ class CommonLibraryPlugin: FlutterPlugin, MethodCallHandler, ActivityAware {
   private lateinit var activity: Activity
 
   override fun onAttachedToEngine(@NonNull flutterPluginBinding: FlutterPlugin.FlutterPluginBinding) {
-    channel = MethodChannel(flutterPluginBinding.binaryMessenger, "com.inspireui/common_library")
+    channel = MethodChannel(flutterPluginBinding.binaryMessenger, "com.ramoui/common_library")
     channel.setMethodCallHandler(this)
     context = flutterPluginBinding.applicationContext
   }

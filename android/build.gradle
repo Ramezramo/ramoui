@@ -1,4 +1,4 @@
-group 'com.inspireui.common_library'
+group 'com.ramoui.common_library'
 version '1.0'
 
 buildscript {
@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace = "com.inspireui.common_library"
+    namespace = "com.ramoui.common_library"
     compileSdkVersion 31
 
     compileOptions {

@@ -120,7 +120,7 @@ class Videos {
 
   static Future<Response> getWorkingProxyLink(proxyUrl, httpClient) async {
     return await http.post(
-      Uri.parse('https://proxy.inspireui.com/api/v1/proxy'),
+      Uri.parse('https://proxy.ramoui.com/api/v1/proxy'),
       body: {
         'url': proxyUrl,
         'httpClient': httpClient,

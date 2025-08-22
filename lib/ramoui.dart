@@ -1,4 +1,4 @@
-library inspireui;
+library ramoui;
 
 /// Common Extension
 export 'extensions/screen_extensions.dart';

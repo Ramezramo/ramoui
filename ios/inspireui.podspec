@@ -1,17 +1,17 @@
 #
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html.
-# Run `pod lib lint inspireui.podspec` to validate before publishing.
+# Run `pod lib lint ramoui.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'inspireui'
+  s.name             = 'ramoui'
   s.version          = '1.0.0'
   s.summary          = 'Common useful and Widget Use For FluxStore Products (Flutter E-Commerce App)'
   s.description      = <<-DESC
 A new Flutter plugin project.
                        DESC
-  s.homepage         = 'https://inspireui.com'
+  s.homepage         = 'https://ramoui.com'
   s.license          = { :file => '../LICENSE' }
-  s.author           = { 'InspireUI' => 'hi@inspireui.com' }
+  s.author           = { 'ramoui' => 'hi@ramoui.com' }
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
   s.dependency 'Flutter'

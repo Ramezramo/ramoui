@@ -4,7 +4,7 @@ import UIKit
 
 public class SwiftCommonLibraryPlugin: NSObject, FlutterPlugin {
   public static func register(with registrar: FlutterPluginRegistrar) {
-    let channel = FlutterMethodChannel(name: "com.inspireui/common_library", binaryMessenger: registrar.messenger())
+    let channel = FlutterMethodChannel(name: "com.ramoui/common_library", binaryMessenger: registrar.messenger())
     let instance = SwiftCommonLibraryPlugin()
     registrar.addMethodCallDelegate(instance, channel: channel)
   }

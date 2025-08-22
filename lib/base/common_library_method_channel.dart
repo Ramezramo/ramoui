@@ -8,7 +8,7 @@ import 'common_library_platform_interface.dart';
 class MethodChannelCommonLibrary extends CommonLibraryPlatform {
   /// The method channel used to interact with the native platform.
   @visibleForTesting
-  final methodChannel = const MethodChannel('com.inspireui/common_library');
+  final methodChannel = const MethodChannel('com.ramoui/common_library');
 
   @override
   Future<String?> initHttpClient() async {

@@ -21,14 +21,14 @@ If your business has already had the website, then it is easy to integrate with 
 
 Please refer to the documentation guide below to know how to install, customize, and publish to app store & google play.
 
-You can subscribe to the Youtube [InspireUI Channel](http://youtube.com/inspireui?sub_confirmation=1), like, and press the bell icon to get notifications for free instructional videos.
+You can subscribe to the Youtube [ramoui Channel](http://youtube.com/ramoui?sub_confirmation=1), like, and press the bell icon to get notifications for free instructional videos.
 
 
 ## 3. Reference links
 
 | Official website | https://fluxstore.app/                                       |
 | ---------------- | ------------------------------------------------------------ |
-| Company website  | [https://inspireui.com](https://inspireui.com/)              |
+| Company website  | [https://ramoui.com](https://ramoui.com/)              |
 | Fluxstore apps   | [Fluxstore Pro](https://1.envato.market/40oN3), [Fluxstore Woocommerce](https://1.envato.market/QL4d9), [Fluxstore Multi vendor](https://1.envato.market/NW4q1), [Fluxstore Listing](https://1.envato.market/7qoVO), [FluxStore Shopify](https://1.envato.market/o9vAg), [Fluxstore Prestashop](https://1.envato.market/7YDad) |
-| Youtube channel  | https://www.youtube.com/inspireui                            |
-| Medium blog      | https://medium.com/@inspireui                                |
+| Youtube channel  | https://www.youtube.com/ramoui                            |
+| Medium blog      | https://medium.com/@ramoui                                |
