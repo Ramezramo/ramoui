@@ -1,8 +1,16 @@
-# FLuxstore
-- Common library from ramoui company
+# ramoui
 
-![ramoui](https://user-images.githubusercontent.com/19247680/141238003-7673625e-31f0-4844-80d1-6b1d91abb00f.png)
+A new Flutter project.
 
-Fluxstore is a universal e-commerce app inspired by Flutter framework, made by Google. With the mission of reducing thousands of hours of business spent on designing, developing and testing a mobile app, Fluxstore comes as a complete solution for optimizing to deliver your app to the market with high productivity and cost-efficiency. It could be able to satisfy all of the business requirements including e-commerce functionalities, impressive UX design and smooth performance on both iOS and Android devices.
+## Getting Started
 
-- https://docs.ramoui.com/fluxstore
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
